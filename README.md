@@ -1,9 +1,11 @@
 # 将微信读书划线和笔记同步到Notion
 
+源代码仓库是 malinkang的weread2notion，请移步
 
 本项目通过Github Action每天定时同步微信读书划线到Notion。
 
 预览效果：https://book.malinkang.com
+
 
 > [!WARNING]  
 > 请不要在Page里面添加自己的笔记，有新的笔记的时候会删除原笔记重新添加。
@@ -32,9 +34,5 @@
         * WEREAD_COOKIE
         * NOTION_TOKEN
         * NOTION_DATABASE_ID
-
-## 微信群
-
- ![image](https://github.com/malinkang/weread2notion/assets/3365208/706d9ed2-9c2b-4207-8d8e-9062228a20fa)
 
 
